@@ -1,0 +1,4 @@
+C:\Users\aluno.cad\source\repos\interface\interface\obj\Debug\net8.0\exercicioplanar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno.cad\source\repos\interface\interface\obj\Debug\net8.0\exercicioplanar.AssemblyInfoInputs.cache
+C:\Users\aluno.cad\source\repos\interface\interface\obj\Debug\net8.0\exercicioplanar.AssemblyInfo.cs
+C:\Users\aluno.cad\source\repos\interface\interface\obj\Debug\net8.0\exercicioplanar.csproj.CoreCompileInputs.cache
